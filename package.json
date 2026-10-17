@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "puppeteer-real-browser": "^1.4.4"
+  }
+}
